@@ -1,9 +1,14 @@
 # Partial implementation of DDD with Typescript
 
-- Domain
+## Domain
 - Entities
 - Repositories
 - ValueObjects
 - DomainService
 - Domain Events
-- TDD (Jest)
+
+## Infra
+- DB (Sequelize + Sqlite)
+- Repositories
+
+## TDD (Jest)
