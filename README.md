@@ -1,4 +1,4 @@
-# Partial implementation of DDD with typescript
+# Partial implementation of DDD with Typescript
 
 - Domain
 - Entities
